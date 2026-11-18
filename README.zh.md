@@ -1,5 +1,7 @@
 # 托盘菜单增强
 
+[English](./README.md)
+
 为 [DeepSeek Harness](https://github.com/deepseek-ai/DeepSeek-Harness)（DSH）桌面端带来更丰富的 Windows 托盘右键菜单：每项带图标、增加重启入口、检查更新、以及浅色/深色主题子菜单。
 
 ## 安装

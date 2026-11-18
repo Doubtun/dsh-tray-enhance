@@ -1,5 +1,7 @@
 # Tray menu enhancement
 
+[中文文档](./README.zh.md)
+
 Richer Windows tray menu for [DeepSeek Harness](https://github.com/deepseek-ai/DeepSeek-Harness) (DSH) desktop: per-item icons, a restart entry, an update check, and a light/dark theme submenu.
 
 ## Install
