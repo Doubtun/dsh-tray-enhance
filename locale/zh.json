@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "托盘菜单增强",
+    "description": "右键点击 DeepSeek Harness 托盘图标时，菜单显示带图标的 Open、Restart、Check for Updates、主题子菜单和 Exit。主题子菜单在浅色、深色、跟随系统之间切换应用外观，与客户端自带的切换按钮同步。打开「插件」页找到本插件，其页面上的配置表单可选择托盘菜单语言（中文、English 或跟随应用语言）；图标配色始终跟随系统深浅自动切换。启用后会改写已安装桌面端外壳中的托盘代码，并把原始代码记录在 resources/tray-enhance/backup 以便还原；下次启动 DSH 生效，应用更新后会自动重新应用。对网页版和其他平台无影响。",
+    "detail": "docs/DETAIL.zh.md"
+  }
+}

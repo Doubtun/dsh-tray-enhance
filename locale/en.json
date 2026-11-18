@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Tray menu enhancement",
+    "description": "Right-clicking the DeepSeek Harness tray icon shows Open, Restart, Check for Updates, a Theme submenu, and Exit, each with its own icon. The Theme submenu switches the application between light, dark, and follow system, mirroring the in-app appearance control. The configuration form on this bundle's Plugins page chooses the tray menu language (Chinese, English, or the application language); the icon palette always follows the system light/dark state. Applying it rewrites the tray code inside the installed desktop shell and records the original in resources/tray-enhance/backup so it can be restored; it takes effect on the next DSH start and is re-applied automatically after an application update. It changes nothing in the web build or on other platforms.",
+    "detail": "docs/DETAIL.md"
+  }
+}
