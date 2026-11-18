@@ -1,6 +1,6 @@
 {
   "name": "dsh-tray-enhance",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "description": "Richer Windows tray menu for DeepSeek Harness: per-item icons, a restart entry, an update check, and a light/dark theme submenu.",
   "license": "MIT",

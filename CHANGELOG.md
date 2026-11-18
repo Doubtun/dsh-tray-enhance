@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.1
+
+- Republish so registry mirrors refresh the manifest and expose `dsh.bundle`.
+
 ## 1.0.0
 
 - Richer Windows tray menu: Open, Restart, Check for Updates, Theme submenu, and Exit, each with its own icon.
